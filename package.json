@@ -1,0 +1,20 @@
+{
+  "name": "review-git-nodejs",
+  "version": "1.0.0",
+  "main": "0-index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node 0-index.js",
+    "dev": "node utils/helper.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
