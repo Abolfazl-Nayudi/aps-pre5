@@ -1,0 +1,13 @@
+BASE_URL: https://review-class-login-system.onrender.com
+
+user params: /users
+
+product params: /products
+
+product query: 
+key => type 
+values => ['shirt', 'shoes', 'accessory']
+
+
+
+CRUD methods => get all, create, delete, update, get Signle document
